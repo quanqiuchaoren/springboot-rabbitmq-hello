@@ -1,7 +1,6 @@
 package com.qqcr.springboot.rabbitmq.hello;
 
 
-import com.qqcr.springboot.rabbitmq.hello.config.RabbitMQConfig;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
